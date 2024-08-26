@@ -2,7 +2,7 @@
 ## Objective
 Develop a turn-based chess-like game featuring a server-client architecture, utilizing WebSockets for real-time communication and a web-based user interface.
 
-# Game Rules
+## Game Rules
 ### Game Setup
 1. The game is played between two players on a 5x5 grid.
 2. Each player controls a team of 5 characters: Pawns, Hero1, and Hero2.
